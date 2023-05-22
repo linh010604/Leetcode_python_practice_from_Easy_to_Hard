@@ -1,3 +1,6 @@
+# Using dynamic programming to know the longest common subarray end with ith position in array nums1 
+# and jth position in array nums2
+
 class Solution(object):
     def findLength(self, nums1, nums2):
         """
